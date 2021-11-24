@@ -1,0 +1,7 @@
+html{
+    height: auto;
+    min-height: 100%;
+}
+body {
+    background: linear-gradient(to right ,#9d4edddc, #E0AAFF);
+}
